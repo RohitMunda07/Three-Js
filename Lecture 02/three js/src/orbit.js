@@ -30,6 +30,7 @@ controls.dampingFactor = 0.01
 // controls.autoRotate = true
 controls.autoRotateSpeed = 8
 // controls.enableZoom = false
+
 function animate() {
     window.requestAnimationFrame(animate)
     // cube.rotation.x += 0.01;
